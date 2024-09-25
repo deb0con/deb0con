@@ -1,12 +1,12 @@
 <h1 align="left" id="macropower-title"> 🇸🇬 Hi Folks! I'm Thomas a.k.a deb0con</h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vn-phamviethung/">
+  <a href="https://www.linkedin.com/in//">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/7b545e20-e4e6-42d0-99a6-1015ae0d63e8">
+  <a href="">
    <img alt="GCP" src="https://img.shields.io/badge/Google Cloud Profile-%234285F4.svg?style=for-the-badge&color=yellow&logo=google-cloud&logoColor=white">
   </a>
-   <a href="https://pvh.vercel.app">
+   <a href="https://pwn0sec.com">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
   <a href="https://github.com/deb0con">
