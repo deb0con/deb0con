@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 🌱 learning=" Learning about: Cloud, Software, and AI"
 🏔️ collaboration=" Innovative AI and App Projects"
 💬 askMeAbout=" API Development, Cloud, AI, and System Design"
-📫 howToReachMe=" linkedin.com/in/vn-phamviethung"
+📫 howToReachMe=" linkedin.com/in/deb0con"
 🏎️ pronouns=" He/Him"
 🤖 funFact=" No Fun"
 
